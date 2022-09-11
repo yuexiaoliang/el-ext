@@ -1,0 +1,27 @@
+{
+  "name": "el-ext",
+  "version": "0.0.1",
+  "description": "非官方的 element-plus 物料库.",
+  "keywords": [
+    "vue",
+    "element-plus"
+  ],
+  "main": "index.ts",
+  "scripts": {
+    "dev:example": "pnpm --filter example dev"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "@types/node": "^18.7.16",
+    "@vitejs/plugin-vue": "^3.1.0",
+    "@vitejs/plugin-vue-jsx": "^2.0.1",
+    "element-plus": "^2.2.16",
+    "pinia": "^2.0.22",
+    "sass": "^1.54.9",
+    "typescript": "^4.8.3",
+    "vite": "^3.1.0",
+    "vue": "^3.2.39",
+    "vue-router": "^4.1.5"
+  }
+}
