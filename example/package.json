@@ -11,6 +11,7 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "@el-ext/components": "workspace:^1.0.0"
+    "@el-ext/components": "workspace:^1.0.0",
+    "@el-ext/hooks": "workspace:^1.0.0"
   }
 }
